@@ -11285,7 +11285,12 @@ body {
     padding: 40px 30px 30px 30px;
     background-color: #ecf0f3;
     border-radius: 15px;
-    box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #fff;
+}
+
+
+.logo {
+  width: 200px;
+  margin: auto;
 }
 
 .wrapper .name {
@@ -11326,6 +11331,8 @@ body {
     background-color: #03A9F4;
     color: #fff;
     border-radius: 25px;
+    box-shadow: 3px 3px 3px #b1b1b1,
+        -3px -3px 3px #fff;
     letter-spacing: 1.3px;
 }
 
