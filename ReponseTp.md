@@ -15,4 +15,10 @@ Nous allons organiser nos branches de la manière suivante :
 
 **Question :**
 Quels outils allez-vous utiliser pour planifier et suivre le progrès de votre projet? (cf consignes supplementaires)
-Gantt
+
+**Réponse :**
+
+Nous avons utiliser des outils les outils suivant pour gérer notre projet :
+
+- Gantt Pour planifier un agenda de développement
+- Teams comme outils de communication 
