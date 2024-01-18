@@ -159,10 +159,10 @@ Nous avons utiliser des outils les outils suivant pour gérer notre projet :
 - Option : Nous avons rajouter des pages comme "compte" et "login" afin de rajouter de l'experience utilisateur
 - Ergonomie : Nous avons placer les éléments dans le site en modifiant, rajoutant et supprimant différents texte, image ou section afin de donner de l'ergonomie sur le site
 
-![Alttext](/CaptureEcranSite/c1.png)
-![Alttext](/CaptureEcranSite/c2.png)
-![Alttext](/CaptureEcranSite/c3.png)
-![Alttext](/CaptureEcranSite/c7.png)
-![Alttext](/CaptureEcranSite/c4.png)
-![Alttext](/CaptureEcranSite/c5.png)
-![Alttext](/CaptureEcranSite/c6.png)
+![Alttext](./CaptureEcranSite/c1.png)
+![Alttext](./CaptureEcranSite/c2.png)
+![Alttext](./CaptureEcranSite/c3.png)
+![Alttext](./CaptureEcranSite/c7.png)
+![Alttext](./CaptureEcranSite/c4.png)
+![Alttext](./CaptureEcranSite/c5.png)
+![Alttext](./CaptureEcranSite/c6.png)
