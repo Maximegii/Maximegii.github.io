@@ -14,6 +14,10 @@ Nous allons organiser nos branches de la manière suivante :
 - Une branche hotfix pour le débuguage et les correction 
 - Une branche personnelle à chaque développeur (Yohann, Adrien, Maxime)
 
+Voici notre shéma des branches : 
+
+![Alt text](shema-branches-1.png)
+
 **Question :**
 Quels outils allez-vous utiliser pour planifier et suivre le progrès de votre projet? (cf consignes supplementaires)
 
