@@ -6,6 +6,7 @@
 Comment allez-vous organiser et nommer vos branches selon Git Flow? (Vous pouvez proposer une alternative à Git Flow si vous le souhaitez, dans tous les cas un schema de branches doit être défini)
 
 **Réponse :** 
+Nous avons utilisé git flow pour organiser nos branches mais n'avons pas garder toutes les branches proposés et créée par ce dernier.
 
 Nous allons organiser nos branches de la manière suivante : 
 - Une branche main qui sera la version prod de notre site 
@@ -22,6 +23,8 @@ Nous avons utiliser des outils les outils suivant pour gérer notre projet :
 
 - Gantt Pour planifier un agenda de développement
 - Teams comme outils de communication 
+- Nous avons structuré nos commits en règle avec conventionalcommits
+- Comitizen qui est un outil permettant de mieux structurer ses commits afin qu'ils deviennent plus claires et précis 
 
 
 ## Phase 2 :
@@ -32,7 +35,7 @@ Nous avons utiliser des outils les outils suivant pour gérer notre projet :
 
 **Réponse :**
 
-1. Nous avons fait des commits simple et compréhenssif, des commits fréquents, nous avons essayer de mettre en place des mots action le plus souvent possible (Modif, Suppression, Ajout), puis nous avons fait des commits en fonction des différentes branches de notre projet pour mieux s'organiser.
+1. Nous avons fait des commits simple et compréhenssif, des commits fréquents, nous avons essayer de mettre en place des mots action le plus souvent possible (Modif, Suppression, Ajout), puis nous avons fait des commits en fonction des différentes branches de notre projet pour mieux s'organiser. Nous avons aussi utiliser Commitizen afin de nous aider dans la clareté de nos commits en suivant les règle conventionnalcommits.
 
 2. Nous avons utiliser des fichiers spécifiques comme le css pour la gestion global de l'interface graphique, nous avons mis en début de chaque page dans le code les dépendances en essayant de mettre le moins de fichiers posssible. Nous avons tester chaque modifications de dépendances pour vérifier que le bon fonctionnement.
 
@@ -128,6 +131,8 @@ Nous avons utiliser des outils les outils suivant pour gérer notre projet :
 - Gestion des Dépendances
 - Optimisation et Efficacité
 - Préparation d'une maintenance en continu
+- Formation a l'outil de collaboration Git
+- Découverte de divers outils anexe telle que commitizen
 
 2. Suite à cette expérience voici les améliorations possible de collaboration et de versioning que nous avons retenu pour des projets futurs :
 
