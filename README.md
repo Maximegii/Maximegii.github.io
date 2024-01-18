@@ -4,6 +4,10 @@
 
 Nous avons créer un site de e-commerce de vente de console, nous sommes partie d'un template et nous l'avons modifier (logo, titre, nouvelle fonctionaliter, thème ...).
 
+#### Lien du site public : 
+
+https://maximegii.github.io
+
 #### Se connecter et lier le dépôt sur votre poste
 
 * Ouvrir un terminal. (dans notre cas _Git Bash_)
@@ -22,7 +26,7 @@ Vous disposez maintenant de tout le contenue de la branche main dans votre dossi
 
 #### Répartition des tâches
 
-* Maxime ; Page Boutique / Module commitizen / bug fix / Merge 
+* Maxime ; Page Boutique / Module commitizen / bug fix / Merge / Github page
 
 * Adrien ; Page d'acceil / Page compte / github page
 

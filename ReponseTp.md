@@ -29,6 +29,7 @@ Nous avons utiliser des outils les outils suivant pour gérer notre projet :
 - Teams comme outils de communication 
 - Nous avons structuré nos commits en règle avec conventionalcommits
 - Comitizen qui est un outil permettant de mieux structurer ses commits afin qu'ils deviennent plus claires et précis 
+- Github Pages pour la publication du site
 
 
 ## Phase 2 :
@@ -162,6 +163,12 @@ Nous avons utiliser des outils les outils suivant pour gérer notre projet :
 - Texte : Nous avons rajouter des zones de texte et des descriptions sur chacune des pages afin d'améliorer les informations contenu dans le site
 - Option : Nous avons rajouter des pages comme "compte" et "login" afin de rajouter de l'experience utilisateur
 - Ergonomie : Nous avons placer les éléments dans le site en modifiant, rajoutant et supprimant différents texte, image ou section afin de donner de l'ergonomie sur le site
+
+### Publication du site sur Github Page :
+
+Nous avons décidé de le publié sur github Page afin d'avoir une version public de notre site, nous avons simplement suivi la docummentation suivante :https://docs.github.com/fr/pages/quickstart
+
+ Pour mettre en place la publication et modifier quelques dépendances qui posaient problème.
 
 ![Alttext](./CaptureEcranSite/c1.png)
 ![Alttext](./CaptureEcranSite/c2.png)
