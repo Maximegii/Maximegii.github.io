@@ -1,5 +1,7 @@
 # TP Groupe Yohann Mathieux, Adrien Castel, Maxime Girardet
 
+#### Le document réponse se trouve a la racine du dépot (ReponseTp.md) !
+
 #### Notre projet
 
 Nous avons créer un site de e-commerce de vente de console, nous sommes partie d'un template et nous l'avons modifier (logo, titre, nouvelle fonctionaliter, thème ...).
