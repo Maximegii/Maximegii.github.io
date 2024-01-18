@@ -22,7 +22,7 @@ Vous disposez maintenant de tout le contenue de la branche main dans votre dossi
 
 #### Répartition des tâches
 
-* Maxime ; Page Boutique / Module commitizen
+* Maxime ; Page Boutique / Module commitizen / bug fix / Merge 
 
 * Adrien ; Page d'acceil / Page compte / github page
 
