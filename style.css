@@ -6,8 +6,10 @@ body{
     display: flex;
     flex-direction: column;
     margin: 0;
-    min-height: 90vh;
-    background-color: rgb(255, 255, 255);
+    min-height: 100vh;
+    background-size: auto ;
+    /*background: linear-gradient(45deg, rgb(1, 60, 123),rgb(68, 158, 255));*/
+    background-image: url(./images/background.jpg);
     /*border: 2px dashed blue;*/
 }
 h1{
@@ -28,8 +30,8 @@ header{
     padding-left: 10px;
     padding-right: 15px;
     justify-content: space-between;
-    background-color: rgb(216, 216, 216);
-    border-bottom: 2px solid black;
+    backdrop-filter: blur(50px);
+    background-color: white;
     height: 10%;
     align-items: center;
     
@@ -42,7 +44,7 @@ header{
 }
 .imglogo{
     height: 100%;
-    width: 200px;
+    width: 100px;
     content: url(images/logos-01.png);
 }
 .titre{
@@ -84,28 +86,44 @@ header{
 }
 main{
     display: flex;
-    align-items: center;
-    justify-content: center;
+    flex-direction: column;
+    /*align-items: center;
+    justify-content: center;*/
     /*border: 2px dashed black;*/
     height: 100%;
     width: 100%;
 }
-.Content{
+.ContentL{
     display: flex;
     flex-direction: column;
-    align-items: center;
+    justify-content: right;
+    margin-left: 5%;
     margin-top: 5%;
     margin-bottom: 5%;
-    width: 1200px;
-    min-height: 60vh;
-    border-radius: 4%;
-    border: 2px solid black;
-    background-color: rgb(216, 216, 216);
+    width: 50%;
+    min-height: 80vh;
+    border-radius: 10%;
+    background-color: white;*/
+   
+    
+}
+.ContentR{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    margin-left: 45%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    width: 50%;
+    min-height: 80vh;
+    border-radius: 10%;
+    background-color: white;*/
+   
+    
 }
 .entete{
     width: 100%;
     height: 10%;
-    border-bottom: 2px solid black;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -114,9 +132,10 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100px;
+    margin-bottom: 0;
+    height: 200px;
     width: 100%;
-    background-color: black;
+    background: linear-gradient(900deg, #3b3b3b,rgb(32, 32, 32));
 }
 .txtfooter::after{
     content: "W.I.P";
